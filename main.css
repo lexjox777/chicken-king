@@ -1,0 +1,67 @@
+#logo{
+text-align: center;
+font-family: 'Lobster', cursive;
+font-size:xxx-large;
+}
+
+#slide{
+  width:100%;
+
+}
+
+.textOnImage{
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  bottom: 15%;
+  font-weight: bold;
+  font-style:italic;
+  
+
+}
+
+#toprow{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: burlywood;
+}
+
+#bottomrow{
+  padding-bottom: 10px;
+}
+
+#map{
+  height: 400px;
+  width:100%;
+  margin-left: 10px;
+
+}
+
+#lastImage{
+  padding-right: 0px;
+  padding-left: 30px;
+}
+
+#icon{
+  height:10px;
+  width:80px;
+  padding-bottom: 60px;
+  }
+  
+  #phoneSection{
+    background-color: rgb(162, 202, 87);
+    margin:  10px;  
+    
+  }
+    
+  
+
+
+#enddingRow{
+  align-items: center;
+  text-align:center;
+  justify-content:center;
+
+}
+
